@@ -1,6 +1,17 @@
 # DeepLearning
 
+
+---
+
+
+
 ## AAIS in Hanyang Univ.
+
+
+
+---
+
+
 
 This project is learning about CNN
 
@@ -10,3 +21,9 @@ This project is learning about CNN
 4. Knowledge distillation
 5. Grad-CAM
 6. Applying to Age-group estimation algorithm
+
+
+## Mask Detection for Project
+
+1. MTCNN for face Detection
+2. transfer learning for mask Detection
