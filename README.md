@@ -1,11 +1,11 @@
-# DeepLearning
+# AAIS
 
 
 ---
 
 
 
-## AAIS in Hanyang Univ.
+## AAIS Intern in Hanyang Univ.
 
 
 
@@ -22,8 +22,7 @@ This project is learning about CNN
 5. Grad-CAM
 6. Applying to Age-group estimation algorithm
 
+## Another Data
 
-## Mask Detection for Project
-
-1. MTCNN for face Detection
-2. transfer learning for mask Detection
+1. Transformer
+2. Extract medical signal
